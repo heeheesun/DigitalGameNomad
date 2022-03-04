@@ -1,0 +1,56 @@
+.Company-nav{
+    color: black;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.booth1-nav {
+    text-align: center;
+    padding-bottom: 10em;
+}
+
+.booth1-img {
+    text-align: center;
+    display: inline-block;
+    padding: 1em;
+    
+}
+
+.booth1-text {
+    display: inline-block;
+    text-align: center;
+    padding: 5em;
+    vertical-align: top;
+    font-size: large;
+    font-weight: 600;
+
+
+}
+
+.booth2-nav {
+    text-align: center;
+}
+
+.booth2 {
+    text-align: center;
+    padding-bottom: 10em;
+}
+
+.booth2-img {
+    text-align: center;
+}
+
+.button-nav {
+    text-align: center;
+    padding-bottom: 7em;
+}
+
+.button {
+    background-color: #5e5e5e;
+    color: white;
+    line-height: 2.5em;
+    border-radius: 6px;
+    margin: 0;
+    font-size: large;
+    padding: 10px 100px;
+}

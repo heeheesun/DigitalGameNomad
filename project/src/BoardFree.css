@@ -1,0 +1,65 @@
+.free-number { 
+    display: inline-block;
+}
+
+.free-number li{
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.free-select{
+    height: 35px;
+}
+
+.free-list {
+    display: inline-block;
+}
+
+.free-list-title {
+    text-align: justify;
+    display: inline-block;
+    margin: 3em 8em 3em 0;
+}
+
+.free-list-title li:hover {
+    background-color: #e0e0e0;
+    border-radius: 4px;
+}
+
+.free-list-date {
+    display: inline-block;
+    margin: 3em 0 3em 8em;
+}
+
+.boardsearch {
+    height: 30px;
+    width: 473px;
+    margin: 10px;
+}
+
+.free-button-search {
+    height: 35px;
+    width: 60px;
+    border: 0;
+    outline: 0;
+    border-radius: 4px;
+}
+
+.free-button-nav {
+    padding: 2em;
+}
+
+.free-button {
+    background-color: #5e5e5e;
+    color: white;
+    border-radius: 6px;
+    margin: 0;
+    width: 60px;
+    height: 26px;
+    border: 0;
+    outline: 0;
+}
+
+.free-hr {
+    width: 60em;
+}
