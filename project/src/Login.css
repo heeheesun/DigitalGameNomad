@@ -1,0 +1,103 @@
+.login {
+    background-color: white; 
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.login-main {
+    display: inline-block;
+    padding: 8em 0 5em 0;
+}
+
+.login-header {
+    font-size: xxx-large;
+}
+
+.login-hr {
+    width: 80em;
+}
+
+.login-id {
+    padding: 0 0 1em 0 ;
+}
+
+.login-id-text {
+    font-size: x-large;
+    padding-right: 3em;
+    font-weight: 900;
+}
+
+.login-id-box {
+    width: 275px;
+    height: 40px;
+    border-color: #e2e2e2;
+    border-radius: 4px;
+}
+
+.login-password {
+    padding: 1em 0 0 0;
+    font-weight: 900;
+}
+
+.login-password-text {
+    font-size: x-large;
+    padding-right: 2em;
+}
+
+.login-password-box {
+    width: 275px;
+    height: 40px;
+    border-color: #e2e2e2;
+    border-radius: 4px;
+    
+} 
+
+.login-button-register {
+    background-color: white;
+    font-weight: 800;
+    border: 0;
+    outline: 0;
+    float: right;
+    margin : 3em 0 2em 0;
+}
+.login-button-register:hover {
+    background-color: #e2e2e2;
+    border-radius: 4px;
+}
+
+
+.login-button-main { 
+    display: inline-block;
+    padding: 2em;
+    margin : 0;
+    ;
+    
+}
+
+.login-button {
+    background-color: rgb(94, 94, 94);
+    font-size: 16px;
+    color: white;
+    border-radius: 4px;
+    width: 223px;
+    height: 60px;
+    border: 0;
+    outline: 0;
+    font-weight: 900;
+}
+
+.login-button-kakao {
+    background-color: #ffec42;;
+    width: 219.6px;
+    height: 54px;
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+    font-weight: 900;
+}
+
+.login-button-kakao-box {
+    padding-top: 1em;
+}
+

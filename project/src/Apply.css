@@ -1,0 +1,73 @@
+.apply {
+    background-color: white; 
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.apply-header {
+    font-size: xxx-large;
+}
+
+.apply-text {
+    font-weight: 900;
+    padding-right: 2em;
+}
+
+.apply-name {
+    padding: 1em 0 1em 0;
+}
+
+.apply-box-name {
+    width: 551px;
+    height: 40px;
+    border-color: #e2e2e2;
+    border-radius: 4px;
+}
+
+.apply-box-game {
+    width: 551px;
+    height: 40px;
+    border-color: #e2e2e2;
+    border-radius: 4px;
+}
+
+.apply-info {
+    padding: 1em;
+    
+}
+
+.apply-box-info {
+    width: 551px;
+    height: 151px;
+    border-color: #e2e2e2;
+    border-radius: 4px;
+}
+.apply-url {
+    margin-bottom: 25px;
+}
+
+.apply-box-url {
+    width: 551px;
+    height: 40px;
+    border-color: #e2e2e2;
+    border-radius: 4px;
+}
+
+.apply-button {
+    padding-top: 3em;
+    padding-bottom: 4em;
+
+}
+
+.apply-button-box {
+    font-size: 16px;
+    border-radius: 4px;
+    background-color: rgb(94, 94, 94);
+    color: white;
+    width: 300px;
+    height: 40px;
+    border: 0;
+    outline: 0;
+}

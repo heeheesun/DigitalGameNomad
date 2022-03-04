@@ -1,0 +1,60 @@
+.Register {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+}
+.r__form {
+    border-top: 1px solid rgb(197, 195, 195);
+    margin-bottom: 50px;
+}
+.r__h2 {
+    text-align: center;
+    padding: 20px 0; 
+}
+.r__title {
+    padding: 10px;
+    margin-top: 20px;
+}
+.label {
+    margin-right: 30px;
+}
+
+.t__input{
+    width: 40%;
+}
+.r__textarea {
+    width: 40%;
+    height: 250px;
+}
+.r__content {
+   display: flex;
+   justify-content: center;
+   padding: 10px; 
+}
+.r__image {
+    padding: 10px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid rgb(197, 195, 195);
+}
+.input {
+    width: 33%;
+}
+.r__btn {
+    margin-left: 10px;
+    background-color: #dcdcde;
+    border: 0;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+}
+.r__submit {
+    border: 0;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 10px 15px;
+    background-color: #50575e;
+    color: white;
+    margin: 0;
+}
