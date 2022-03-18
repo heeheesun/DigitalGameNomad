@@ -1,0 +1,41 @@
+.Home-logo {
+  height: 80vmin;
+}
+
+.Home-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #161516;
+  margin: 0 auto; 
+  position: relative; 
+  
+}
+
+.Home-link {
+
+  font-size: x-large;
+  font-weight: 600;
+  box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.4);
+  margin: 0 auto;
+  
+}
+
+.Home-link a{
+  color: #f7f7f7;
+}
+
+.videoss {
+  width: 100%;
+  height: 100%;
+}
+
+.Home-header .react-reveal {
+  position: absolute; 
+  bottom: 30%;  
+  border-radius: 8px;
+  padding: 0 5px 2px 5px;
+}
+

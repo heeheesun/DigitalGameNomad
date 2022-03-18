@@ -1,0 +1,32 @@
+.modifylogin {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.modifylogin-logo {
+    height: 50vmin;
+}
+
+.modifylogin-login {
+    width: 300px;
+    height: 40px;
+    border-radius: 8px;
+    border-color: #e2e2e2;
+    margin-bottom: 3px;
+}
+
+.modify-button {
+    width: 308px;
+    height: 40px;
+    border-radius: 8px;
+    border:0;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: medium;
+    font-weight: 600;
+    background-color: #5e5e5e;
+}
+
+.modify-button a {
+    color: white;
+}

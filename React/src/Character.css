@@ -1,0 +1,37 @@
+.character {
+    background-color: #cacaca;
+}
+
+.character-choice {
+    text-align: center;
+    font-size: xx-large;
+    margin: 0 auto;
+}
+
+.character-choice h1 {
+    margin: 0;
+    padding: 30px;
+}
+
+.character-main {
+    text-align: center;
+}
+
+
+.character-nav {
+    display: inline-block;
+    text-align: center;
+}
+
+.character-man {
+    display: inline-block;
+    width: 400px;
+    margin-right: 30px;
+    
+}
+
+.character-woman {
+    display: inline-block;
+    width: 400px;
+    margin-left: 30px;
+}
