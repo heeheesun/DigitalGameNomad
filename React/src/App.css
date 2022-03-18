@@ -1,0 +1,283 @@
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #161516;
+  font-weight: 550;
+} 
+
+
+.navbar a{
+  margin-left: 5px;
+  margin-right: 5px;
+  color: #f7f7f7;
+}
+
+.navbar-menu {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  font-size: x-large;
+  font-family: "NotoSansCJKkrMedium"; 
+  
+}
+
+.navbar-menu li{
+  padding: 8px 12px;
+
+}
+
+
+.navbar-links {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  font-size: medium;
+  padding-right: 1em;
+  font-family: "NotoSansCJKkrBlack"; 
+
+}
+
+.navbar-links li {
+  padding: 5px;
+  color: #f7f7f7;
+  font-family: "NotoSansCJKkrMedium"; 
+}
+
+
+.navbar-menu li:hover {
+  background-color: #303841;
+  color: #f7f7f7;
+  border-radius: 8px;
+}
+
+.navbar-menu a:hover {
+  background-color: #303841;
+  color: #f7f7f7;
+  border-radius: 8px;
+}
+
+.navbar-links li:hover {
+  background-color: #303841;
+  color: #f7f7f7;
+  border-radius: 8px;
+}
+
+
+
+
+
+
+  @media screen and (max-width: 768px) {
+  .navbar {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 8px;
+  }
+
+  .navbar-menu {
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .nevbar-menu li {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .navbar-links {
+    justify-content: center;
+    width: 100%;
+  }
+}       
+
+.HomeMenu2 {
+  position: absolute;
+  float: left;
+  font-size: xx-large;
+  display: block;
+}
+
+.Home {
+  text-align: center;
+}
+
+.Home-logo {
+  height: auto;
+  pointer-events: none;
+}
+
+.App-logo1 {
+  vertical-align: middle;
+    max-height: 70px; 
+    padding-left: 1em;
+}
+
+.App-logo2 {
+  vertical-align: middle ;
+    max-height: 70px; 
+    padding-left: 2em;
+}
+
+.foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #161516;
+  margin: 0 auto;
+  width: 100%;
+  height: 150px; /* footer의 높이 */
+  font-weight: 550;
+}
+
+.foot a {
+  color: #b5b5b5;
+}
+
+
+.foot-div1{
+  float: left;
+
+}
+
+.foot-div1 a {
+  font-family: "NotoSansCJKkrBold";  
+  color: #faf9fa;
+}
+
+
+.foot-div2 {
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+}
+
+.foot-div2-1 {
+  display: table-cell;
+  vertical-align: middle;
+  padding-right: 3em;
+}
+
+.foot-div2-2 {
+  padding-left: 3em;
+}
+
+.foot-div2 li {
+  padding: 8px 12px;
+}
+
+
+.icon-logo {
+  vertical-align: middle;
+  max-height: 50px; 
+}
+
+.foot-div3 {
+  list-style: none;
+  display: flex;
+  padding: 8px 2em 12px 0;
+  display: inline-block;
+}
+
+.foot-div3 li {
+  padding: 8px 12px;
+  display: inline-block;
+  color: #f7f7f7;
+}
+
+.foot-div3-1 {
+  display: inline-block;
+}
+
+.foot-div3-1-button {
+  border: 0;
+  background-color: #161516;
+}
+
+.foot-div3-2 {
+text-align: center;
+
+}
+
+.refresh {
+  border: 0;
+  font-size: large;
+  background-color: #F3ECE4;
+  border-radius: 1000px;
+}
+
+
+
+
+@font-face {
+  font-family: "NotoSansCJKkrBlack";       
+  src: url("./font/NotoSansCJKkrBlack.ttf"); 
+}
+
+@font-face {
+  font-family: "NotoSansCJKkrBold";         
+  src: url("./font/NotoSansCJKkrBold.ttf"); 
+}
+
+@font-face {
+  font-family: "NotoSansCJKkrMedium";         
+  src: url("./font/NotoSansCJKkrMedium.ttf"); 
+}
+
+@font-face {
+  font-family: "NotoSansCJKkrRegular";         
+  src: url("./font/NotoSansCJKkrRegular.ttf"); 
+}
+
+@font-face {
+  font-family: "NotoSansCJKkrThin";         
+  src: url("./font/NotoSansCJKkrThin.ttf"); 
+}
+
+
+
+
+@font-face {
+  font-family: "CookieRunBlack";         
+  src: url("./font/CookieRunBlack.ttf"); 
+}
+
+@font-face {
+  font-family: "CookieRunBold";         
+  src: url("./font/CookieRunBold.ttf"); 
+}
+
+@font-face {
+  font-family: "CookieRunRegular";         
+  src: url("./font/CookieRunRegular.ttf"); 
+}
+
+
+
+
+
+@font-face {
+  font-family: "NotoSansCJKkrDemiLite";         
+  src: url("./font/NotoSansCJKkrDemiLite.ttf"); 
+}
+
+
+
+
+
+
+@font-face {
+  font-family: "CookieRunRegular";         
+  src: url("./font/CookieRunRegular.ttf"); 
+}
+

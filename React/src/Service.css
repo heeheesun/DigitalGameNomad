@@ -1,0 +1,121 @@
+.service {
+    text-align: center;
+    background-color: white;
+    font-family: "NotoSansCJKkrRegular";   
+}
+
+.service-nav {
+    color: black;
+    font-size: xx-large;
+    font-family: "NotoSansCJKkrBold";   
+}
+
+.service-faq-main {
+    border: 1px solid gray;
+    border-radius: 8px;
+    width: 800px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+
+
+.service-hr {
+    width: 800px;
+}
+
+
+.service-qustion {
+    padding: 10px;
+}
+
+.service-qustion :hover{
+    background-color: #e2e2e2;
+    border-radius: 8px;
+}
+
+.service-answer-nav {
+    margin: 1em;
+}
+
+.service-answer {
+    text-align: center;
+    background-color: #e2e2e2;
+    padding: 10px;
+    width: 500px;
+    height: 100px;
+    border-radius: 6px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.service-button-nav {
+    border: 1px solid gray;
+    width: 800px;
+    height: 200px;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.service-button {
+    background-color: white;
+    border-radius: 8px;
+    margin: 20px;
+    width: 150px;
+    height: 50px;
+    font-family: "NotoSansCJKkrBlack";     
+}
+
+.service-inquiry-button {
+    font-weight: 600;
+}
+
+.service-button:hover {
+    background-color: #e2e2e2;
+    cursor: pointer;
+}
+
+
+
+/* 추가 */
+
+.answer-box-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+    background-color: #e2e2e2;
+    padding: 10px;
+    width: 500px;
+    height: 150px;
+    border-radius: 6px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.answer-box-info input {
+    width: 351px;
+    height: 100px;
+    border-color: #e2e2e2;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+.answer-box-info button {
+    width: 150px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: rgb(211, 211, 230);
+    font-size: 15px;
+    border-radius: 10px;
+}
+

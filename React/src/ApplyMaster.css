@@ -1,0 +1,66 @@
+.master {
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+.master-header{
+    display: inline-block;
+    font-size: xx-large;
+    background-color: #f7f7f7;
+    
+}
+
+.master-nav {
+    background-color: white;
+    border: 1px solid black;
+    display: block;
+    text-align: justify;
+    align-items: center;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 8px;
+    border: 0;
+    padding: 1em 0 1em 0;
+    font-size: large;
+    font-weight: 600;
+}
+
+.master-file {
+    background-color: #f7f7f7;
+    width: 400px;
+    padding-left: 2px;
+    padding-bottom: 3px;
+}
+
+.master-button-nav {
+    text-align: center;
+}
+
+.master-button {
+    text-align: center;
+    margin: 0 15px 5px 15px;
+    border-radius: 8px;
+    border: 0;
+    background-color: #5e5e5e;
+    width: 100px;
+    height: 40px;
+    font-size: large;
+}
+
+.master-button a{
+    color: white;
+}
+
+#master-button1 {
+    background-color: green;
+    font-family: "NotoSansCJKkrRegular"; 
+}
+
+#master-button2 {
+    background-color: #a52a2a;
+    font-family: "NotoSansCJKkrRegular"; 
+}
+
+#master-button3 {
+    font-family: "NotoSansCJKkrRegular"; 
+}
