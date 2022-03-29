@@ -1,0 +1,11 @@
+Model Information:
+* title:	Warhammer 40k space marine grenade
+* source:	https://sketchfab.com/3d-models/warhammer-40k-space-marine-grenade-a4386400346b4b4890ea98dcf133320a
+* author:	Colin.Greenall (https://sketchfab.com/Colin.Greenall)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Warhammer 40k space marine grenade" (https://sketchfab.com/3d-models/warhammer-40k-space-marine-grenade-a4386400346b4b4890ea98dcf133320a) by Colin.Greenall (https://sketchfab.com/Colin.Greenall) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

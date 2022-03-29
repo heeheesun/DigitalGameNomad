@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokeball for Blender
+* source:	https://sketchfab.com/3d-models/pokeball-for-blender-8613f35e2b734ab48a829c9cc371d8a5
+* author:	foxradohd (https://sketchfab.com/foxradohd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokeball for Blender" (https://sketchfab.com/3d-models/pokeball-for-blender-8613f35e2b734ab48a829c9cc371d8a5) by foxradohd (https://sketchfab.com/foxradohd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
